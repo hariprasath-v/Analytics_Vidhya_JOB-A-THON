@@ -11,3 +11,6 @@
 #### Private Leaderboard: 1511/2362
 
 #### Private LB Score: 0.5322523429
+
+
+## Exploratory data analysis has done in a personal machine. Machine learning modeling & predictions have done by using google colab.
